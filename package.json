@@ -1,0 +1,24 @@
+{
+  "name": "brokentool",
+  "version": "0.1.0",
+  "description": "Use Ajax + S3/Cloudfront to announce that your shit is broken",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/brokentool.git"
+  },
+  "keywords": [
+    "uptime",
+    "downtime",
+    "lefttime"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/brokentool/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/brokentool#readme"
+}
